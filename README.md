@@ -24,4 +24,7 @@ Second task of the challenge - Using the same React app, but instead doing the c
    ### `npm start`
 
 ## Comments
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) in multiple browsers to check the server count functionality between clients.
+
 I hope you like my solutions!
